@@ -1,4 +1,4 @@
-# Java Learning Journey 🚀
+# Java Learning Journey
 
 This repository documents my journey of learning Java from scratch.
 
